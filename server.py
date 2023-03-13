@@ -1,4 +1,4 @@
-from flask import Flask, session
+from flask import Flask
 from app import app
 from app.controllers import UserControllers
 
